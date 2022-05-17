@@ -1,0 +1,8 @@
+{
+  "name": "Record To String",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "992d7751"
+}
